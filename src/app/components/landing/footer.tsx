@@ -34,8 +34,8 @@ const Footer = () => {
 
             {/* SOCIAL ICONS */}
             <div className="flex gap-4 pt-2">
-              <Image src="/facebook_icon.png" alt="facebook" width={24} height={24} />
-              <Image src="/twitter_icon.png" alt="twitter" width={24} height={24} />
+              <Image src="/facebook_icon.jpg" alt="facebook" width={24} height={24} />
+              <Image src="/twitter_icon.jpg" alt="twitter" width={24} height={24} />
               <Image src="/linkedin_icon.png" alt="linkedin" width={24} height={24} />
             </div>
           </div>
